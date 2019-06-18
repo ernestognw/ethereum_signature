@@ -1,6 +1,6 @@
 # Ethereum sign and recover example
 
-## [Live demo HERE](https://ernestognw.github.io/ethereum…)
+## [Live demo HERE](https://ernestognw.github.io/ethereum_signature/dist/index.html)
 
 Web3 has its eth.personal.sign function that allows developers to use users private keys to sign messages to prove identity with its reverse function that finds the public key that signed the message.
 
